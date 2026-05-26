@@ -9,6 +9,7 @@ mixin repoLink
       p PixivNow - Now, everyone can enjoy Pixiv!
       p 现在，每个人都能享受 Pixiv！
       p 也许能给你带来不一样体验的奇妙网站。让你更专注于欣赏插画本身，而不会被<i>神秘</i>因素干扰。
+      p 本站是 PixivNow 项目的又一个个人部署，以下内容均出自原开发团队：
 
     Card(title='使用方法')
       h3 访客
